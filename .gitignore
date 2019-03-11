@@ -1,4 +1,5 @@
 bin
 obj
+packages
 build.cmd
 nuget.exe
